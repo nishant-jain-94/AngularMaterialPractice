@@ -1,0 +1,15 @@
+{
+  "name": "AngularMaterialPractice",
+  "homepage": "https://github.com/stackroute/StackRoute-Vagrant-Node5-Mongo3.2",
+  "authors": [
+    "Nishant Jain <nishantkumarajain@gmail.com>"
+  ],
+  "description": "Practice Material",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular-material": "^1.0.7"
+  }
+}
